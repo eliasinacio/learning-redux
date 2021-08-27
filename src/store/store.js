@@ -1,8 +1,8 @@
 import {createStore} from 'redux'
 
 const INITIAL_STATE = {
-  numbers: [
-    1
+  tasks: [
+    
   ]
 }
 

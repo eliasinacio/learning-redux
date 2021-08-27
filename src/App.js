@@ -2,7 +2,7 @@ import { Provider } from 'react-redux';
 import './App.css';
 
 import Adder from './Adder'
-import store from './store'
+import store from './store/store'
 
 function App() {
   return (
